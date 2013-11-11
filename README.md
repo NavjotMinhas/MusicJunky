@@ -11,7 +11,7 @@ MusicJunky
   <li>Listen music</li>
   <li>Make playlists and queues </li>
   <li>Reprograms itself if it finds that the algorithm is broken</li>
- <ol>
+ </ol>
   
 <p>Built on Vanilla Music and Ringdroid Ringdroid and Vanilla Music</p> 
  
