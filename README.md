@@ -10,7 +10,7 @@ MusicJunky
   <li>Edit your music</li>
   <li>Listen music</li>
   <li>Make playlists and queues </li>
-  <li>Reprograms itself if it finds that the algorithm is broken (no need to wait for the developer to update)</li>
+  <li>Reprograms itself if it finds that the algorithm is broken (<strong>no need to wait for the developer to update</strong>)</li>
  </ol>
   
 <p>Built on Vanilla Music and Ringdroid Ringdroid and Vanilla Music</p> 
