@@ -5,12 +5,12 @@ MusicJunky
  
  <ol>
   <li>Convert Videos into audio (ffmpeg) </li>
-  <li>Getvideo from youtube </li>
+  <li>Getvideo from youtube (It does not rely on anyexternal websites) </li>
   <li>Make ringtones form any video off youtube, and assign them to a contact</li>
   <li>Edit your music</li>
   <li>Listen music</li>
   <li>Make playlists and queues </li>
-  <li>Reprograms itself if it finds that the algorithm is broken</li>
+  <li>Reprograms itself if it finds that the algorithm is broken (no need to wait for the developer to update)</li>
  </ol>
   
 <p>Built on Vanilla Music and Ringdroid Ringdroid and Vanilla Music</p> 
